@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ItzxDwi
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on my Minecraft server
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on my Minecraft Server
 
 
 <!---
