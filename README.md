@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 My Projects
-- ⚡ [**Android PHP**](https://github.com/ItzxDwi/AndroidPHP): PHP CLI binary for PocketMine-MP on Android, *updated every 12 hours to stay up to date!*
+- ⚡ [**Android PHP**](https://github.com/ItzxDwi/AndroidPHP): PHP CLI binary for PocketMine-MP on Android, *updated every 48 hours to stay up to date!*
 ---
 
 ### 📊 GitHub Stats
